@@ -1,0 +1,6 @@
+*.json
+*.pyc
+__pycache__/
+token.json
+gsc-credentials.json
+oauth-credentials.json
